@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\bin\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.exe.config
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\bin\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.exe
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\bin\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.pdb
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\bin\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.xml
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\obj\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\obj\Debug\Recuperatorio_NEnt___Benjamin_Condori_Vasquez.Form1.resources
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\obj\Debug\Recuperatorio_NEnt___Benjamin_Condori_Vasquez.Resources.resources
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\obj\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\obj\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\obj\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.exe
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\obj\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.xml
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Recuperatorio NEnt _ Benjamin Condori Vasquez\obj\Debug\Recuperatorio NEnt _ Benjamin Condori Vasquez.pdb

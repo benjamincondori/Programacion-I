@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Recuperatorio NEnt _ Benjamin Condori Vasquez", "Recuperatorio NEnt _ Benjamin Condori Vasquez.vbproj", "{EDCCB2EA-F58F-4A1B-A21C-D180A80E8BA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCCB2EA-F58F-4A1B-A21C-D180A80E8BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCCB2EA-F58F-4A1B-A21C-D180A80E8BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCCB2EA-F58F-4A1B-A21C-D180A80E8BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCCB2EA-F58F-4A1B-A21C-D180A80E8BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5536F44-5B4C-4CAE-B968-38EABB200864}
+	EndGlobalSection
+EndGlobal
