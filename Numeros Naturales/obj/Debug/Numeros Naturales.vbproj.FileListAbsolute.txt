@@ -1,0 +1,33 @@
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\bin\Debug\Numeros Naturales.exe
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\bin\Debug\Numeros Naturales.pdb
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\bin\Debug\Numeros Naturales.xml
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\obj\Debug\Numeros Naturales.vbprojAssemblyReference.cache
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\obj\Debug\Numeros_Naturales.Form1.resources
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\obj\Debug\Numeros_Naturales.Resources.resources
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\obj\Debug\Numeros Naturales.vbproj.GenerateResource.cache
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\obj\Debug\Numeros Naturales.vbproj.CoreCompileInputs.cache
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\obj\Debug\Numeros Naturales.exe
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\obj\Debug\Numeros Naturales.xml
+D:\UAGRM\INF120\Ing. Alberto Mollo\2-2020\Numero\Numeros Naturales\obj\Debug\Numeros Naturales.pdb
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\bin\Debug\Numeros Naturales.exe
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\bin\Debug\Numeros Naturales.pdb
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\bin\Debug\Numeros Naturales.xml
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\obj\Debug\Numeros Naturales.vbprojResolveAssemblyReference.cache
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\obj\Debug\Numeros_Naturales.Form1.resources
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\obj\Debug\Numeros_Naturales.Resources.resources
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\obj\Debug\Numeros Naturales.vbproj.GenerateResource.Cache
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\obj\Debug\Numeros Naturales.exe
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\obj\Debug\Numeros Naturales.xml
+E:\DESCARGAS VARIOS\pro1\Numeros Naturales\obj\Debug\Numeros Naturales.pdb
+C:\Users\USER\Desktop\Numeros Naturales\bin\Debug\Numeros Naturales.exe.config
+C:\Users\USER\Desktop\Numeros Naturales\bin\Debug\Numeros Naturales.exe
+C:\Users\USER\Desktop\Numeros Naturales\bin\Debug\Numeros Naturales.pdb
+C:\Users\USER\Desktop\Numeros Naturales\bin\Debug\Numeros Naturales.xml
+C:\Users\USER\Desktop\Numeros Naturales\obj\Debug\Numeros Naturales.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\Numeros Naturales\obj\Debug\Numeros_Naturales.Form1.resources
+C:\Users\USER\Desktop\Numeros Naturales\obj\Debug\Numeros_Naturales.Resources.resources
+C:\Users\USER\Desktop\Numeros Naturales\obj\Debug\Numeros Naturales.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\Numeros Naturales\obj\Debug\Numeros Naturales.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Numeros Naturales\obj\Debug\Numeros Naturales.exe
+C:\Users\USER\Desktop\Numeros Naturales\obj\Debug\Numeros Naturales.xml
+C:\Users\USER\Desktop\Numeros Naturales\obj\Debug\Numeros Naturales.pdb

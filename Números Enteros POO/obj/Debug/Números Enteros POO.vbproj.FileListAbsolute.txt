@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\bin\Debug\Números Enteros POO.exe.config
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\bin\Debug\Números Enteros POO.exe
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\bin\Debug\Números Enteros POO.pdb
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\bin\Debug\Números Enteros POO.xml
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\obj\Debug\Números Enteros POO.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\obj\Debug\Números_Enteros_POO.Form1.resources
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\obj\Debug\Números_Enteros_POO.Resources.resources
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\obj\Debug\Números Enteros POO.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\obj\Debug\Números Enteros POO.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\obj\Debug\Números Enteros POO.exe
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\obj\Debug\Números Enteros POO.xml
+C:\Users\USER\Desktop\PROGRAMAS VISUAL BASIC\Números Enteros POO\obj\Debug\Números Enteros POO.pdb
